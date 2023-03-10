@@ -1,5 +1,6 @@
 package com.example.testtask.dto;
 
+
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
@@ -11,9 +12,11 @@ import lombok.NoArgsConstructor;
 
 import java.time.LocalDate;
 
+
 /**
  * Created by olegb on март, 2023
  */
+
 
 @Data
 @AllArgsConstructor
